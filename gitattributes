@@ -1,0 +1,8 @@
+# Treat Python files as Python
+*.py linguist-language=Python
+
+# Treat Jupyter notebooks as JSON (or Python for linguist)
+*.ipynb linguist-language=Python
+
+# Handle line endings consistently
+* text=auto
