@@ -1,10 +1,11 @@
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat-square)
-![Jupyter](https://img.shields.io/badge/Jupyter-FF6600?logo=jupyter&logoColor=white&style=flat-square)
-
-
 # Exploratory Data Analysis (EDA) using Python
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-latest-green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-latest-red)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Workflow: Data Analysis](https://img.shields.io/badge/Workflow-EDA-informational)
+[![License: MIT](https://img.shields.io/badge/License-MIT-orange)](LICENSE)
+![Last Commit](https://img.shields.io/github/last-commit/Hridya2001/Python-Data-Analysis)
 
 
 ## Overview
