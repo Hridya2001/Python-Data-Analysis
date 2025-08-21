@@ -1,9 +1,5 @@
 # Exploratory Data Analysis (EDA) using Python
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Pandas](https://img.shields.io/badge/Pandas-latest-green)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-latest-red)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![Workflow: Data Analysis](https://img.shields.io/badge/Workflow-EDA-informational)
 [![License: MIT](https://img.shields.io/badge/License-MIT-orange)](LICENSE)
 ![Last Commit](https://img.shields.io/github/last-commit/Hridya2001/Python-Data-Analysis)
 
